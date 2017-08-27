@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  mtrk8demo:
+    image: mtrk8demo
+    build:
+      context: ./mtrK8demo
+      dockerfile: Dockerfile

@@ -1,0 +1,10 @@
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\bin\Debug\netcoreapp1.1\mtrK8demo.deps.json
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\bin\Debug\netcoreapp1.1\mtrK8demo.runtimeconfig.json
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\bin\Debug\netcoreapp1.1\mtrK8demo.runtimeconfig.dev.json
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\bin\Debug\netcoreapp1.1\mtrK8demo.dll
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\bin\Debug\netcoreapp1.1\mtrK8demo.pdb
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\obj\Debug\netcoreapp1.1\mtrK8demo.csprojResolveAssemblyReference.cache
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\obj\Debug\netcoreapp1.1\mtrK8demo.csproj.CoreCompileInputs.cache
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\obj\Debug\netcoreapp1.1\mtrK8demo.AssemblyInfo.cs
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\obj\Debug\netcoreapp1.1\mtrK8demo.dll
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\mtrK8demo\obj\Debug\netcoreapp1.1\mtrK8demo.pdb

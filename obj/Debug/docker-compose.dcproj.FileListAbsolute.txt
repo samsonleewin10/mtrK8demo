@@ -1,0 +1,1 @@
+c:\users\samslee\documents\visual studio 2017\Projects\mtrK8demo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
